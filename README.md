@@ -1,4 +1,5 @@
-open-source-GPTs
+#open-source-GPTs
+
 Welcome to the comprehensive collection of custom instructions, files, scripts, and tools designed to empower developers, researchers, and enthusiasts in tailoring GPT models using the new OpenAI GPT Builder. GPTs, or Generative Pre-trained Transformers, are powerful AI models that can be customized for a wide range of applications in open-source projects.
 
 How to Create Your Own GPT
