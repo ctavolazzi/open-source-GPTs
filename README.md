@@ -32,3 +32,5 @@ Troubleshooting: [Common issues and solutions will be added here].
 Community Contributions: [How to contribute to this project will be added here. For now, please use GitHub Issues].
 
 Feel free to also use [this Reddit thread](https://www.reddit.com/r/ChatGPT/comments/17tp3de/im_making_custom_gpts_for_open_source_projects/) for discussion.
+
+Please check out [my YouTube channel](https://www.youtube.com/c/ChristopherTavolazzi) I'll be posting how-to videos, updates, and use cases there.
